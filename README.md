@@ -52,7 +52,4 @@ Focus
 - `HCI - Lab 4 Activities.docx` — Cognitive test results; attention/memory heuristics
 - `Akshit Lab -5 activity.docx` — Mental models, metaphors, conceptual modeling
 
-## Notes
-
-- This README summarizes detected headings/bullets from the documents; detailed narratives, screenshots, and tables remain in the .docx files.
-- If you rename or add labs, keep the “File map” and sections above in sync.
+##
