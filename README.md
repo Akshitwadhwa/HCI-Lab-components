@@ -43,7 +43,3 @@ Focus
 - Classification exercise (domain objects, tasks/operations, interface metaphors)
 
 
----
-
-
-##
