@@ -45,11 +45,5 @@ Focus
 
 ---
 
-## File map
-
-- `Lab 1 Activities.docx` — Device evaluation; console comparison; GenAI pros/cons
-- `Akshit Lab 3 Activities.docx` — User interview (Lovable), tasks/sub‑tasks, RCA
-- `HCI - Lab 4 Activities.docx` — Cognitive test results; attention/memory heuristics
-- `Akshit Lab -5 activity.docx` — Mental models, metaphors, conceptual modeling
 
 ##
